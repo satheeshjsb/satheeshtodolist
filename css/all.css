@@ -1,0 +1,48 @@
+body {
+	font-family: verdana;
+	background-color:#dbc7b1;
+}
+
+.loginHeader {
+	width: 300px;
+	float: right;
+	margin: 20px;
+}
+
+.container {
+	width: 100%;
+}
+
+.content {
+	width: 400px;
+	margin: 10px auto;
+	background: #ffffff;
+	padding: 5px;
+}
+
+.loginContainer {
+	width: 300px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	background: #ffffff;
+	padding: 5px;
+}
+
+.btn-facebook {
+	width: 100%;
+	background: #3a5898;
+	border: 0px;
+}
+
+.btn-facebook:hover, .btn-facebook:active, .btn-facebook:focus {
+	background: #4267b2;
+}
+
+.searchText {
+	border: 0px;
+    border-bottom: 1px solid #ccc;
+    width: 300px;
+    padding: 5px;
+}
