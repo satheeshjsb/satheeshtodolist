@@ -97,6 +97,8 @@
 		<div class="loginContainer">
 			<div id="fbButton">
 				<button name="btnFBLogin" id="btnFBLogin" class="btn btn-primary btn-facebook" onclick="fbLogin()"><i class="fa fa-facebook"></i>&nbsp;&nbsp;<span id="fbContent">Signin with Facebook<span></button>
+				<button name="btnGoogleLogin" id="btnGoogleLogin" class="btn btn-primary btn-google"><i class="fa fa-google-plus"></i>&nbsp;&nbsp;<span id="googleContent">Signin with Google<span></button>
+				<button name="btnTwitterLogin" id="btnTwitterLogin" class="btn btn-primary btn-twitter"><i class="fa fa-twitter"></i>&nbsp;&nbsp;<span id="twitterContent">Signin with Twitter<span></button>
 			</div>
 			<div id="status">
 			</div>
